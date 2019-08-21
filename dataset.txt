@@ -1,1 +1,1 @@
-### dataset == wsj0  ###
+### dataset == wsj0  please download and prepare it!###
