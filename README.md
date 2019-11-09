@@ -6,6 +6,7 @@ Separation''](https://arxiv.org/abs/1809.07454).
 The default setting I used:
 
 ![](settings.png)
+Notice: the state of art if 15.7dB in SI-SNR through revise the segment of data
 
 ## Dependencies
 
